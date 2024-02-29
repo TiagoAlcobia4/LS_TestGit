@@ -1,0 +1,9 @@
+git init -> criação de repositorio na diretoria
+
+git add -> passagem de "ficheiros" para staging area
+- git add . -> passagem de todos os ficheiros
+
+
+git commit -m "mensagem" 
+
+
